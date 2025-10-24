@@ -1,0 +1,748 @@
+=== INVENTORY DEBUG - 2025-10-23 13:33:05 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:33:11 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:33:16 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:34:29 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:34:33 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:35:04 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:35:13 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:36:23 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:36:28 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:41:34 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:41:58 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:42:09 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/inventory
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:42:48 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:42:52 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:42:56 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:42:58 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/inventory
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
+=== INVENTORY DEBUG - 2025-10-23 13:43:03 ===
+Has user_id: YES
+User ID: 125
+Access Level: 1
+Access Level Type: string
+In Array Strict: TRUE
+In Array Loose: TRUE
+Session Data: Array
+(
+    [_token] => TLiyubUvJjKp0vkbVlrc01l2MQgV6KklDtnjgXmF
+    [_previous] => Array
+        (
+            [url] => http://127.0.0.1:8000/admin/dashboard
+        )
+
+    [_flash] => Array
+        (
+            [old] => Array
+                (
+                )
+
+            [new] => Array
+                (
+                )
+
+        )
+
+    [user_id] => 125
+    [user_email] => justineperezz0215@gmail.com
+    [user_name] => _scytine
+    [full_name] => Justine Perez
+    [access_level] => 1
+    [user_position] => God
+    [url] => Array
+        (
+            [intended] => http://127.0.0.1:8000/admin/inventory
+        )
+
+)
+
+
+*** ALL CHECKS PASSED ***
+=====================================
+
